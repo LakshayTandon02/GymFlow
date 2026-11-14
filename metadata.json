@@ -1,0 +1,6 @@
+{
+  "name": "GymFlow",
+  "description": "Modern gym management SaaS platform for independent gyms to manage members, plans, payments, expiries, and business analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
